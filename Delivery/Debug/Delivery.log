@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\documents\1 evo com\project\delivery\delivery\source.cpp(376): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\user\documents\1 evo com\project\delivery\delivery\source.cpp(377): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Delivery.vcxproj -> C:\Users\user\Documents\1 EVO COM\project\Delivery\Debug\Delivery.exe
